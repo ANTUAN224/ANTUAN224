@@ -1,0 +1,4 @@
+- Hola, soy **Antonio Mateos Uriarte**, un actual estudiante del grado superior de **DAM** (**D**esarrollo de **A**plicaciones **M**ultiplataforma).
+- Tengo muchas ganas de empezar a trabajar en el sector y contribuir en lo que pueda para facilitar la vida de las personas y crear soluciones a sus problemas.
+- En mi cuenta, encontraréis todos los proyectos que vaya desplegando a medida que voy aprendiendo nuevos *conceptos* y *tecnologías*.
+- Lets goo!!! 😎😎😎
